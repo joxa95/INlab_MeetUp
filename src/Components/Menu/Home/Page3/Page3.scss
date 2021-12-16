@@ -1,0 +1,56 @@
+.page3 {
+	// max-width: 375px;
+	height: 100%;
+	background-color: #0f001b;
+	// margin-top: -38px;
+	padding: 20px 15px;
+
+	.btn {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		padding: 8px 10px 8px 20px;
+		font-size: 0.8rem;
+		font-family: 'Barlow', sans-serif;
+		background-color: #0f001b;
+		color: #ffbd00;
+		border: 1px solid #ffbd00;
+		transition: all 0.3s ease-out 0s;
+		// margin: 26px 0 42px 0;
+	}
+
+	.btn:hover {
+		background-color: #ffbd00;
+		color: #0f001b;
+		transition: all 0.3s ease-out 0s;
+	}
+
+	.Speakes_Card {
+		display: flex;
+		justify-content: space-around;
+	}
+
+	.card_icons {
+		width: 100%;
+		height: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		// background-color: turquoise;
+		position: absolute;
+		padding-top: 160px;
+		transition: 0.5s ease;
+	}
+
+	// .image:hover {
+	// 	transform: scale(1.05);
+	// 	transition: 1s ease;
+	// 	// height: 50px;
+	// }
+
+	.card_icons:hover {
+		padding-top: 100px;
+		transition: 0.5s ease;
+		// background-color: rgb(255, 255, 255);
+	}
+}

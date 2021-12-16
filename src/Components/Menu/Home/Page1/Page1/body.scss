@@ -1,0 +1,23 @@
+span {
+	color: #ffe100;
+}
+
+.btn {
+	margin-top: 10px;
+	padding: 15px 25px;
+	color: #ffbd00;
+	border: 1px solid #ffbd00;
+	background: transparent;
+	cursor: pointer;
+	transition: 0.3s ease;
+}
+.btn:hover {
+	background: #ffbd00;
+	color: #fff;
+	transition: 0.3s ease;
+}
+.containerbody {
+	background: url(../../../../../Images/background.jpg);
+	background-size: cover;
+	background-position: center;
+}

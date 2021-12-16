@@ -1,0 +1,20 @@
+.link {
+	// background-color: rgb(53, 53, 53);
+	text-decoration: none;
+	color: rgb(214, 214, 214);
+	padding: 5px 0;
+	margin: 5px;
+	font-size: 18px;
+	display: flex;
+	align-items: center;
+}
+
+.link:hover {
+	background-color: rgb(88, 88, 88);
+	color: white;
+}
+
+.icons {
+	margin: 0 15px;
+	color: rgb(255, 255, 255);
+}

@@ -1,0 +1,23 @@
+.send_btn {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 10px 20px;
+	font-size: 0.8rem;
+	font-family: 'Barlow', sans-serif;
+	background-color: #ffbd00;
+	border: 1px solid #ffbd00;
+	transition: all 0.3s ease-out 0s;
+	margin: 26px 0 10px 0;
+}
+
+.send_btn:hover {
+	background-color: transparent;
+	color: #ffbd00;
+	transition: all 0.3s ease-out 0s;
+}
+
+.contacts {
+	text-decoration: none;
+	color: white;
+}
